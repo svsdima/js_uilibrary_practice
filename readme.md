@@ -7,3 +7,7 @@
 - В папке lib создаю папку modules
 - В папке modules создаю файл display.js
 - В папке modules создаю файл classes.js
+
+## Работа с css-классами и обработчиками событий
+- Прописываю код в classes.js
+- В папке modules создаю файл actions.js
